@@ -1,3 +1,7 @@
+https://badspot.us/ArduboyXL.html
+
+https://community.arduboy.com/t/run-arduventure-kickstarter-version-on-homemades-with-ssd1309-displays/5478/10
+
 # Arduboy homemade package
 Arduino IDE board package for Arduboy and homemade versions with the following advantages:
 * Single install
