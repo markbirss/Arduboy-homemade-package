@@ -125,3 +125,28 @@ GND  - Ground (0V)
 Vcc  - 5V (~3.0V to ~4.1V on Arduboy)
 (*) Not available when using Pro Micro with Alternate Wiring
 ```
+
+https://www.kickstarter.com/projects/903888394/arduboy-card-sized-gaming
+
+https://arduboy.com/
+https://arduboy.com/download-and-learn-arduino/
+https://community.arduboy.com/t/how-to-reset-arduboy-if-its-bricked/807
+https://mlxxxp.github.io/documents/Arduino/libraries/Arduboy2/Doxygen/html/index.html
+
+Specs:
+Processor: ATmega32u4 (same as Arduino Leonardo & Micro)
+Memory: 32KB Flash, 2.5KB RAM, 1KB EEPROM
+Connectivity: USB 2.0 w/ built in HID profile
+Inputs: 6 momentary tactile buttons
+Outputs: 128x64 1Bit OLED, 2 Ch. Piezo Speaker & Blinky LED
+Battery: 180 mAh Thin-Film Lithium Polymer
+Programming: Codebender, Arduino IDE, GCC & AVRDude
+
+https://www.microchip.com/wwwproducts/en/ATmega32u4
+
+https://tewarid.github.io/2016/10/28/usb-serial-firmware-for-atmega32u4.html ?
+
+http://www.ladyada.net/products/microtouch/
+
+pinout !!!!
+https://community.arduboy.com/t/how-to-reset-arduboy-if-its-bricked/807/30
