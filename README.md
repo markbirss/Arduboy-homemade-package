@@ -1,3 +1,6 @@
+Breadboy a 100% non soldering Homemade Arduboy
+https://community.arduboy.com/t/breadboy-a-100-non-soldering-homemade-arduboy/5910
+
 https://badspot.us/ArduboyXL.html
 
 https://community.arduboy.com/t/run-arduventure-kickstarter-version-on-homemades-with-ssd1309-displays/5478/10
